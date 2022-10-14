@@ -1,2 +1,4 @@
 Esta es mi historia
 desde hoy ya sé aplicar git
+estoy agregando mas contenido
+para poder aplicar lo aprendido
